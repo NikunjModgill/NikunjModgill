@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning I'm currently learning **AI model fine-tuning, cloud deployment and Computer Vision**
 
-- 📫 How to reach me **nikunjs739@hmail.com**
+- 📫 How to reach me **nikunjs739@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
