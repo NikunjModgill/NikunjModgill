@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nikunj Modgill</h1>
 <h3 align="center">💡 Passionate Developer | AI Enthusiast | Problem Solver</h3>
 
-- 🌱 I’m currently learning I'm currently learning **AI model fine-tuning, cloud deployment and Computer Vision**
+- 🌱  I'm currently learning **AI model fine-tuning, cloud deployment and Computer Vision**
 
 - 📫 How to reach me **nikunjs739@gmail.com**
 
